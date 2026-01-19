@@ -1,6 +1,32 @@
 ## Hi there!, I am Bogale Demas 👋
 
-⚡ Full stack developer, react developer, nextjs developer, and react native developer with 1+ years of experience building scalable web and mobile applications. As a fullstack web developer, and react native mobile app developer, I specialize in delivering fast and reliable solutions.
+# 🚀 Full-stack Developer
+
+⚡ Full stack developer, Specialize in delivering fast and reliable solutions.
+
+# 🛠️ Tech Stack
+
+# Frontend
+    Next.js - React framework for production
+    React - Component-based UI development
+    TypeScript - Type-safe JavaScript development
+    Tailwind CSS - Utility-first CSS framework
+# Backend
+
+    Node.js - JavaScript runtime for server-side development
+    Express.js - Fast, unopinionated web framework
+    Spring Boot - Java-based enterprise application framework
+    Go (Golang) - Efficient, concurrent programming language
+    Gin - High-performance HTTP web framework for Go
+
+# Mobile
+  
+# Database & Tools
+
+    PostgreSQL / MongoDB - Database management
+    Redis - In-memory data structure store
+    Docker - Containerization
+    Git - Version control
 
 Here are some ideas to get you started:
 
