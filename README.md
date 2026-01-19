@@ -1,7 +1,6 @@
-## Hi there 👋
+## Hi there!, I am Bogale Demas 👋
 
-
-**bogaledemasrepo/bogaledemasrepo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚡ Full stack developer, react developer, nextjs developer, and react native developer with 2+ years of experience building scalable web and mobile applications. As a fullstack web developer, and react native mobile app developer, I specialize in delivering fast and reliable solutions.
 
 Here are some ideas to get you started:
 
