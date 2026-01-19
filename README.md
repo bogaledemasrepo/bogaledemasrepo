@@ -34,6 +34,9 @@ I am a passionate Full-Stack Developer dedicated to building fast, reliable, and
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bogaledemasrepo&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
 </p>
 
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bogaledemasrepo&theme=tokyonight" alt="GitHub Streak" height="150" />
+</p>
 ---
 
 <!-- ### 📂 Featured Projects
