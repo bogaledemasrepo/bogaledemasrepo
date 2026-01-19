@@ -36,7 +36,7 @@ I am a passionate Full-Stack Developer dedicated to building fast, reliable, and
 
 ---
 
-### 📂 Featured Projects
+<!-- ### 📂 Featured Projects
 
 | Project Name | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
@@ -44,7 +44,7 @@ I am a passionate Full-Stack Developer dedicated to building fast, reliable, and
 | **Project Two** | Description of your best mobile app, focusing on performance and UX. | `React Native` `Expo` `Firebase` | [View Project](#) |
 | **Project Three** | A backend-focused API or a cool tool you built for developers. | `Node.js` `Express` `Redis` | [View Project](#) |
 
----
+--- -->
 
 ### 📫 Let's Connect!
 
