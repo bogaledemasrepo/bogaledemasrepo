@@ -35,7 +35,7 @@ I am a passionate Full-Stack Developer dedicated to building fast, reliable, and
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bogaledemasrepo&theme=tokyonight" alt="GitHub Streak" height="150" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bogaledemasrepo&theme=tokyo-night" alt="GitHub Activity Graph" width="100%" />
 </p>
 ---
 
