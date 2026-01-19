@@ -1,6 +1,6 @@
 ## Hi there!, I am Bogale Demas 👋
 
-⚡ Full stack developer, react developer, nextjs developer, and react native developer with 2+ years of experience building scalable web and mobile applications. As a fullstack web developer, and react native mobile app developer, I specialize in delivering fast and reliable solutions.
+⚡ Full stack developer, react developer, nextjs developer, and react native developer with 1+ years of experience building scalable web and mobile applications. As a fullstack web developer, and react native mobile app developer, I specialize in delivering fast and reliable solutions.
 
 Here are some ideas to get you started:
 
