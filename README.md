@@ -36,6 +36,16 @@ I am a passionate Full-Stack Developer dedicated to building fast, reliable, and
 
 ---
 
+### 📂 Featured Projects
+
+| Project Name | Description | Tech Stack | Link |
+| :--- | :--- | :--- | :--- |
+| **Project One** | A brief, catchy description of what this app does and the problem it solves. | `Next.js` `Tailwind` `PostgreSQL` | [View Project](#) |
+| **Project Two** | Description of your best mobile app, focusing on performance and UX. | `React Native` `Expo` `Firebase` | [View Project](#) |
+| **Project Three** | A backend-focused API or a cool tool you built for developers. | `Node.js` `Express` `Redis` | [View Project](#) |
+
+---
+
 ### 📫 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bogale-demas/)
