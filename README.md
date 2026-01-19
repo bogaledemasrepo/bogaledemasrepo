@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./assets/banner.png" alt="Bogale Demas Banner" width="100%" height="200px">
-</p>
-
 # Hi there! I'm Bogale Demas 👋 
 
 ### 🚀 Full-Stack Developer | React Native Expert
