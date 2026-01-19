@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR_IMAGE_URL_HERE" alt="Bogale Demas Banner" width="100%">
+  <img src="./assets/banner.png" alt="Bogale Demas Banner" width="100%">
 </p>
 
 # Hi there! I'm Bogale Demas 👋 
